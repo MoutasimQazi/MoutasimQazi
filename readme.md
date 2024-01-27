@@ -31,22 +31,7 @@ I'm Moutasim Qazi, and my journey in the world of technology involves a diverse 
 ### Other Technologies
 
 - **H2O.ai**
-
-## Projects Showcase
-
-I've utilized these technologies in various projects, such as:
-
-1. **AI-Powered Recommendation System**
-   - Implemented with collaborative filtering using Apache Mahout.
-   - Deployed on IBM Watson for real-world recommendations.
-
-2. **Image Classification with Deep Learning**
-   - Utilized TensorFlow and Keras for creating a neural network.
-   - Trained on Google Colab for efficiency.
-
-3. **Predictive Analytics Dashboard**
-   - Integrated Scikit-learn for predictive modeling.
-   - Developed a web-based dashboard using Microsoft Azure Machine Learning.
+---
 
 ## Contact
 
